@@ -1,0 +1,90 @@
+{
+  "44963": {
+    "CN": "NART71275520",
+    "text": "Electrospun TiO2 nanofiber integrated lab-on-a-disc for ultrasensitive protein detection from whole blood",
+    "classes_top": [
+      {
+        "class_id": 1,
+        "class_label": "Chemical & Material Sciences"
+      }
+    ],
+    "classes_sub": [
+      {
+        "class_id": 16,
+        "class_label": "Analytical Chemistry"
+      }
+    ]
+  },
+  "7438": {
+    "CN": "NART53820728",
+    "text": "Thermal conductivities of Si1&#x2212;xGex nanowires with different germanium concentrations and diameters",
+    "classes_top": [
+      {
+        "class_id": 6,
+        "class_label": "Physics & Mathematics"
+      }
+    ],
+    "classes_sub": [
+      {
+        "class_id": 209,
+        "class_label": "Condensed Matter Physics & Semiconductors"
+      }
+    ]
+  },
+  "4522": {
+    "CN": "NART108696177",
+    "text": "Evaluation of the efficacy of ivermectin against Theileria orientalis infection in grazing cattle",
+    "classes_top": [
+      {
+        "class_id": 3,
+        "class_label": "Health & Medical Sciences"
+      }
+    ],
+    "classes_sub": [
+      {
+        "class_id": 147,
+        "class_label": "Veterinary Medicine"
+      }
+    ]
+  },
+  "97879": {
+    "CN": "NART78556970",
+    "text": "Ultra-Reliable and Low Latency Communication in mmWave-Enabled Massive MIMO Networks. Ultra-reliability and low latency are two key components in 5G networks. In this letter, we investigate the problem of ultra-reliable and low-latency communication in millimeter wave-enabled massive multiple-input multiple-output networks. The problem is cast as a network utility maximization subject to probabilistic latency and reliability constraints. To solve this problem, we resort to the Lyapunov technique, whereby a utility-delay control approach is proposed, which adapts to channel variations and queue dynamics. Numerical results demonstrate that our proposed approach ensures reliable communication with a guaranteed probability of 99.99%, and reduces latency by 28.41% and 77.11% as compared to baselines with and without probabilistic latency constraints, respectively.",
+    "classes_top": [
+      {
+        "class_id": 2,
+        "class_label": "Engineering & Computer Science"
+      }
+    ],
+    "classes_sub": [
+      {
+        "class_id": 44,
+        "class_label": "Computer Networks & Wireless Communication"
+      }
+    ]
+  },
+  "60052": {
+    "CN": "NART73553330",
+    "text": "Microbial reduction of nitrate in the presence of zero-valent iron and biochar. The denitrification of nitrate  by mixed cultures in the presence of zero-valent iron [Fe] and biochar was investigated through a series of batch experiments. It was hypothesized that biochar may provide microbes with additional electrons to enhance the anaerobic biotransformation of nitrate in the presence of Fe by facilitating electron transfer. When compared to the anaerobic transformation of nitrate by microbes in the presence of Fe alone, the presence of biochar significantly enhanced anaerobic denitrification by microbes with Fe. Graphite also promoted the anaerobic microbial transformation of nitrate with Fe, and it was speculated that electron-conducting graphene moieties were responsible for the improvement. The results obtained in this work suggest that nitrate can be effectively denitrified by microbes with Fe and biochar in natural and engineered systems.  2015 Elsevier Ltd. All rights reserved.",
+    "classes_top": [
+      {
+        "class_id": 2,
+        "class_label": "Engineering & Computer Science"
+      },
+      {
+        "class_id": 5,
+        "class_label": "Life Sciences & Earth Sciences"
+      }
+    ],
+    "classes_sub": [
+      {
+        "class_id": 39,
+        "class_label": "Biotechnology"
+      },
+      {
+        "class_id": 186,
+        "class_label": "Environmental Sciences"
+      }
+    ]
+  }
+}

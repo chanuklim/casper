@@ -1,0 +1,8 @@
+vllm
+transformers
+torch
+chromadb
+sentence-transformers
+huggingface-hub
+numpy
+tqdm

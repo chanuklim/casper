@@ -1,0 +1,82 @@
+{
+  "4814": {
+    "CN": "TRKO201700000616",
+    "text": "DNA 메틸화를 통한 HBV 복제촉진기전 규명과 B형 간염치료제 개발 HBx에 의한 HBV core promoter의 DNA 메틸화 유도와 promoter 활성화 여부 DNA 메틸화에 의한 HBx의 core promoter 활성화 메커니즘의 규명 HBV cccDNA의 메틸화와 바이러스 복제에 미치는 DNA 메틸화 저해제의 영향 In vitro에서 HBV의 복제를 억제하는 최적 DNA 메틸화 저해제의 선별 소동물에서 DNA 메틸화 저해제가 HBV 복제에 미치는 영향 분석 소동물에서 DNA 메틸화 저해제의 B형 간염 치료효과검증과 기존 약제와의 약효 비교분석",
+    "classes_top": [
+      {
+        "class_id": 6,
+        "class_label": "생명과학"
+      }
+    ],
+    "classes_sub": [
+      {
+        "class_id": 39,
+        "class_label": "분자세포생물학"
+      }
+    ]
+  },
+  "12829": {
+    "CN": "TRKO201900025987",
+    "text": "상아질 재생과 치수 건전성 유지를 위한 신개념 기반 기술 연구 실험동물모델 확립 및 정상 치유 과정 분석 치수강 노출 생쥐 실험동물모델 확립 및 재현성 확인 치수강 노출 후 상아질 및 치수의 변화양상을 형태학 및 분자생물학 수준에서 확인을 통한 상아질 재생과 치수 염증 제어와 관련된 기준 제시 전달체수복재료 평가 및 약물탑재능 분석 1년차의 연구결과를 토대로 정상 치유과정과 비교하여 전달체 또는 수복재료의 독성 및 기능 분석 약물탑재능을 정량적으로 확인하여 차년도 연구를 위한 기반 연구결과 마련 신약개발의 작용점 규명 및 임상적용 기반 마련 Drug repositioning 개념을 적용하여 후보 약재를 처리한 후 조직형태학 및 분자생물학 수준에서 평가분석 신약 개발을 위한 단백질체 분석 진행과 In vivo상의 반응 확인을 통한 신호전달체계 분석",
+    "classes_top": [
+      {
+        "class_id": 5,
+        "class_label": "보건의료"
+      }
+    ],
+    "classes_sub": [
+      {
+        "class_id": 80,
+        "class_label": "치의과학"
+      }
+    ]
+  },
+  "13115": {
+    "CN": "TRKO201900026740",
+    "text": "자생식물라이브러리를 이용한 당뇨병성 신증 치료제 후보물질 개발 nonGLP 수준에서 단회 및 반복투여 독성 평가",
+    "classes_top": [
+      {
+        "class_id": 5,
+        "class_label": "보건의료"
+      }
+    ],
+    "classes_sub": [
+      {
+        "class_id": 65,
+        "class_label": "의약품/의약품개발"
+      }
+    ]
+  },
+  "616": {
+    "CN": "TRKO201300019019",
+    "text": "Banach 공간에서 새로운 형태의 반복열의 수렴과 (A,n)-accretive 사상에 의하여 생성되는 일반화된 준-변분포함문제 본 연구의 내용은 여러 가지 형태의 비선형 nonLipschitzian mapping 들에 의해 구성되는 새로운 형태의 반복수열의 수렴성문제를 부동점이론과 연계하여 연구하고 그 연구를 바탕으로 일반화된 형태의 준변분포함문제의 해의 존재와 알고리즘의 구축 그리고 알고리즘 구축과정에서 생성된 반복수열의 수렴및 안정성문제 둥 다양한 문제를 다루고자 한다 uniformly convex Banach 공간에서 보다 일반적인 nonLipschitzian nonself 인 nearly asymptotically nonexpansive mapping들의 유한 족에 대한 rank 의 errors 항을 갖는 Ishikawa 반복열을 구성하여 그것의 약 수렴과 강수렴에 대한 연구를 하고자 한다 연구인 반복열의 수렴에 관한 결과를 활용하여 Banach 공간에서 accretive 사상에 의해 정의되는 generalized mixed quasivariational inclusion 문제의 new systems을 소개하고 적당한 조건하에서 존재와 일의성을 다루게 되고 또 그 문제를 해결하기 위한 몇 가지 새로운 반복 알고리즘을 구축하게 될 것이다 연구결과를 활용하여 accretive 사상에 의해 정의되는 일반화된 새로운 형태의 setvalued mixed variational inclusion 문제를 구성하고 또 이러한 문제를 해결하기 위하여 새로운 형태의 hybrid proximal point algorithm 을 구축한다 그리고 구축된 알고리즘의 수렴성과 convergence rete 그리고 수렴에 관한 안정성 문제에 대해서도 연구되어 진다",
+    "classes_top": [
+      {
+        "class_id": 7,
+        "class_label": "수학"
+      }
+    ],
+    "classes_sub": [
+      {
+        "class_id": 25,
+        "class_label": "대수학"
+      }
+    ]
+  },
+  "10310": {
+    "CN": "TRKO201800043654",
+    "text": "유전체/전사체/표현체학(phenomics)을 이용한 벼 내재해 유전자 발굴 OsAP25등의 내재해성 메커니즘을 이해하기 위하여 phenomics RNASeq Y2H 등을 수행하며 GOS2OsAP25 EUL123CRISPRcas9 운반체를 이용하여 형질전환 벼를 만들고 PCR qRTPCR 등의 분자생물학적 분석을 통하여 1 copy가 삽입된 개체를 선발한다",
+    "classes_top": [
+      {
+        "class_id": 6,
+        "class_label": "생명과학"
+      }
+    ],
+    "classes_sub": [
+      {
+        "class_id": 60,
+        "class_label": "유전학/유전공학"
+      }
+    ]
+  }
+}
